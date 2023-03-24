@@ -15,4 +15,4 @@ cp oh-my-zsh.sh $HOME/.oh-my-zsh/oh-my-zsh.sh
 cp p10k-instant-prompt.zsh ${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh
 cp p10k.zsh $HOME/.p10k.zsh
 cp zshrc $HOME/.zshrc
-cp sh-aliases $HOME/.sh-aliases
+cp bash_aliases $HOME/.bash_aliases
